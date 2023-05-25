@@ -1,0 +1,21 @@
+
+.example{
+    text-align: center;
+    text-align-last: center;
+    width: 1050px;
+    padding: 100px 250px 250px 250px;
+}
+.container{
+    text-align: center;
+    size-adjust: 32;
+
+}
+.image{
+    width: 50%;
+}
+.col-md-6{
+    padding: 100px 100px 100px 100px;
+}
+.fl{
+    display: flex;
+}
